@@ -1,3 +1,5 @@
+该项目转自盒子萌作者@宝米华华，版权归原作者所有。
+
 这是一个盒子萌WordPress主题！！！
 
 主题demo https://www.boxmoe.com/
